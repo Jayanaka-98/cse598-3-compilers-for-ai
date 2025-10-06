@@ -1,0 +1,66 @@
+# Build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dylib
+*.dll
+build/
+dist/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Documentation builds
+docs/_build/
+
+# Research data (large files)
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+large_datasets/
+
+# Model checkpoints and weights
+*.pth
+*.ckpt
+*.safetensors
+checkpoints/
+models/weights/
