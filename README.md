@@ -25,6 +25,6 @@
 | 19 | **Demystifying the NVIDIA Ampere Architecture through Microbenchmarking and Instruction-Level Analysis** | [NVIDIA Ampere](https://arxiv.org/abs/2208.11174) | [Link](https://chatgpt.com/share/693dd57a-8db4-800f-bf96-164ce5cf5714) |
 | 20 | **Optimizing sDTW for AMD GPUs** | [AMD sDTW](https://arxiv.org/abs/2403.06931) | [Link](https://chatgpt.com/share/693dd68b-84cc-800f-a78c-c042d47a1af6) |
 | 21 | **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** | [TPU v4](https://arxiv.org/abs/2304.01433) | |
-| 22 | **MTIA: First Generation Silicon Targeting Meta's Recommendation Systems** | [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) | |
+| 22 | **MTIA: First Generation Silicon Targeting Meta's Recommendation Systems** | [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) | [Link](https://chatgpt.com/share/693dd72f-1838-800f-aa60-a935ac282735) |
 | 23 | **Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput** | [ML Fleet Efficiency](https://arxiv.org/pdf/2502.06982) | |
 
