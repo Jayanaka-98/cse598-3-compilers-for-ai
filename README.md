@@ -2,18 +2,17 @@
 
 ## Vibe_logs for papers.
 
-
-| # | Paper Title | PaperLink | Vibelog |
-|:--:|:------------------|:-------------|:----:|:-----|
-| 2 | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | [DSPy](https://arxiv.org/pdf/2310.03714) | |
-| 7 | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | |
-| 6 | **MTP: A Meaning-Typed Language Abstraction for AI-Integrated Applications** | [MTP](https://arxiv.org/abs/2405.08965) | |
-| 8 | **Relay: A High-Level Compiler for Deep Learning** | [Relay](https://arxiv.org/abs/1904.08368) | |
-| 4 | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | [GEPA](https://arxiv.org/abs/2507.19457) | |
-| 9 | **Ansor: Generating High-Performance Tensor Programs for Deep Learning** | [Ansor](https://arxiv.org/abs/2006.06762) | |
-| 10 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [Pytorch2](https://dl.acm.org/doi/10.1145/3620665.3640366) | |
+| #  | Paper Title | Paper Link | Vibelog |
+|:--:|-------------|------------|:-------:|
+| 2  | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | [DSPy](https://arxiv.org/pdf/2310.03714) | |
+| 4  | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | [GEPA](https://arxiv.org/abs/2507.19457) | |
+| 6  | **MTP: A Meaning-Typed Language Abstraction for AI-Integrated Applications** | [MTP](https://arxiv.org/abs/2405.08965) | |
+| 7  | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | |
+| 8  | **Relay: A High-Level Compiler for Deep Learning** | [Relay](https://arxiv.org/abs/1904.08368) | |
+| 9  | **Ansor: Generating High-Performance Tensor Programs for Deep Learning** | [Ansor](https://arxiv.org/abs/2006.06762) | |
+| 10 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [PyTorch 2](https://dl.acm.org/doi/10.1145/3620665.3640366) | |
 | 11 | **TorchBench: Benchmarking PyTorch with High API Surface Coverage** | [TorchBench](https://arxiv.org/abs/2304.14226) | |
-| 12 | **TorchTitan: One-stop PyTorch native solution for production ready LLM pretraining** | [TorchTitan](https://arxiv.org/abs/2410.06511) | |
+| 12 | **TorchTitan: One-stop PyTorch Native Solution for Production-Ready LLM Pretraining** | [TorchTitan](https://arxiv.org/abs/2410.06511) | |
 | 13 | **ECLIP: Energy-efficient and Practical Co-Location of ML Inference Pipelines on GPUs** | [ECLIP](https://arxiv.org/abs/2506.12598) | |
 | 14 | **Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations** | [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973) | |
 | 15 | **Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks** | [Geak](https://arxiv.org/abs/2507.23194) | |
@@ -21,10 +20,11 @@
 | 17 | **Memory Safe Computations with XLA Compiler** | [MemSafeXLA](https://arxiv.org/abs/2206.14148) | |
 | 18 | **MLIR: A Compiler Infrastructure for the End of Moore's Law** | [MLIR](https://arxiv.org/abs/2002.11054) | |
 | 19 | **Glow: Graph Lowering Compiler Techniques for Neural Networks** | [Glow](https://arxiv.org/abs/1805.00907) | |
-| 20 | **Efficient Memory Management for Large Language Model Serving with PagedAttention** | [EffPagedAttn](https://arxiv.org/abs/2309.06180) | |
-| 21 | **Effective Memory Management for Serving LLM with Heterogeneity** | [EffLLMServ](https://arxiv.org/abs/2503.18292) | |
-| 22 | **Demystifying the Nvidia Ampere Architecture through Microbenchmarking and Instruction-level Analysis** | [NvidiaAmpere](https://arxiv.org/abs/2208.11174) | |
-| 24 | **Optimizing sDTW for AMD GPUs** | [AMDsDTW](https://arxiv.org/abs/2403.06931) | |
-| 25 | **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** | [TPUs](https://arxiv.org/abs/2304.01433) | |
+| 20 | **Efficient Memory Management for Large Language Model Serving with PagedAttention** | [PagedAttention](https://arxiv.org/abs/2309.06180) | |
+| 21 | **Effective Memory Management for Serving LLMs with Heterogeneity** | [EffLLMServ](https://arxiv.org/abs/2503.18292) | |
+| 22 | **Demystifying the NVIDIA Ampere Architecture through Microbenchmarking and Instruction-Level Analysis** | [NVIDIA Ampere](https://arxiv.org/abs/2208.11174) | |
+| 24 | **Optimizing sDTW for AMD GPUs** | [AMD sDTW](https://arxiv.org/abs/2403.06931) | |
+| 25 | **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** | [TPU v4](https://arxiv.org/abs/2304.01433) | |
 | 26 | **MTIA: First Generation Silicon Targeting Meta's Recommendation Systems** | [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) | |
-| 27 | **Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput** | [MLFleet](https://arxiv.org/pdf/2502.06982) | |
+| 27 | **Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput** | [ML Fleet Efficiency](https://arxiv.org/pdf/2502.06982) | |
+
