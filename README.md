@@ -10,14 +10,14 @@
 | 4  | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | [Link](https://chatgpt.com/share/693dcbed-d9c4-800f-bef3-3cacc918c6c4) |
 | 5  | **Relay: A High-Level Compiler for Deep Learning** | [Relay](https://arxiv.org/abs/1904.08368) | [Link](https://chatgpt.com/share/693ddc1b-f658-800f-b0f5-2ba665c0228c) |
 | 6  | **Ansor: Generating High-Performance Tensor Programs for Deep Learning** | [Ansor](https://arxiv.org/abs/2006.06762) | [Link](https://chatgpt.com/share/693de2b5-49c4-800f-9800-8cbe41a96627) |
-| 7 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [PyTorch 2](https://dl.acm.org/doi/10.1145/3620665.3640366) | |
+| 7 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [PyTorch 2](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Link](https://chatgpt.com/share/693de5f2-358c-800f-afde-d70aa911288f) |
 | 8 | **TorchBench: Benchmarking PyTorch with High API Surface Coverage** | [TorchBench](https://arxiv.org/abs/2304.14226) | |
 | 9 | **TorchTitan: One-stop PyTorch Native Solution for Production-Ready LLM Pretraining** | [TorchTitan](https://arxiv.org/abs/2410.06511) | |
 | 10 | **ECLIP: Energy-efficient and Practical Co-Location of ML Inference Pipelines on GPUs** | [ECLIP](https://arxiv.org/abs/2506.12598) | |
 | 11 | **Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations** | [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973) | |
-| 12 | **Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks** | [Geak](https://arxiv.org/abs/2507.23194) | |
-| 13 | **Operator Fusion in XLA: Analysis and Evaluation** | [OpFusion](https://arxiv.org/abs/2301.13062) | |
-| 14 | **Memory Safe Computations with XLA Compiler** | [MemSafeXLA](https://arxiv.org/abs/2206.14148) | |
+| 12 | **Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks** | [Geak](https://arxiv.org/abs/2507.23194) | [Link](https://chatgpt.com/share/693de6c9-a814-800f-8e21-573fd5491323) |
+| 13 | **Operator Fusion in XLA: Analysis and Evaluation** | [OpFusion](https://arxiv.org/abs/2301.13062) | [Link](https://chatgpt.com/share/693de62d-ccd4-800f-a6a9-dc2f6fa05448) |
+| 14 | **Memory Safe Computations with XLA Compiler** | [MemSafeXLA](https://arxiv.org/abs/2206.14148) | [Link](https://chatgpt.com/share/693de650-628c-800f-8693-07751c28bd14) |
 | 15 | **MLIR: A Compiler Infrastructure for the End of Moore's Law** | [MLIR](https://arxiv.org/abs/2002.11054) | [Link](https://chatgpt.com/share/693de2a1-1598-800f-9e55-1feba983dd06) |
 | 16 | **Glow: Graph Lowering Compiler Techniques for Neural Networks** | [Glow](https://arxiv.org/abs/1805.00907) | [Link](https://chatgpt.com/share/693de288-cae0-800f-91c1-11a4f35f1b65) |
 | 17 | **Efficient Memory Management for Large Language Model Serving with PagedAttention** | [PagedAttention](https://arxiv.org/abs/2309.06180) | [Link](https://chatgpt.com/share/693de263-7c88-800f-9566-c9928a2947a3) |
