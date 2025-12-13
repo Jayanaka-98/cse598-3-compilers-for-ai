@@ -7,7 +7,7 @@
 | 1  | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | [DSPy](https://arxiv.org/pdf/2310.03714) | [Link](https://chatgpt.com/share/693dc1c1-5b90-800f-bca5-92fdaebb3984) |
 | 2  | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | [GEPA](https://arxiv.org/abs/2507.19457) | [Link](https://github.com/Jayanaka-98/cse598-3-compilers-for-ai/blob/main/gepa.md)|
 | 3  | **MTP: A Meaning-Typed Language Abstraction for AI-Integrated Applications** | [MTP](https://arxiv.org/abs/2405.08965) | [Link](https://chatgpt.com/share/693dc847-1afc-800f-906d-4d95f344640a) |
-| 4  | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | |
+| 4  | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | [Link](https://chatgpt.com/share/693dcbed-d9c4-800f-bef3-3cacc918c6c4) |
 | 5  | **Relay: A High-Level Compiler for Deep Learning** | [Relay](https://arxiv.org/abs/1904.08368) | |
 | 6  | **Ansor: Generating High-Performance Tensor Programs for Deep Learning** | [Ansor](https://arxiv.org/abs/2006.06762) | |
 | 7 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [PyTorch 2](https://dl.acm.org/doi/10.1145/3620665.3640366) | |
