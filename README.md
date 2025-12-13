@@ -11,7 +11,7 @@
 | 5  | **Relay: A High-Level Compiler for Deep Learning** | [Relay](https://arxiv.org/abs/1904.08368) | [Link](https://chatgpt.com/share/693ddc1b-f658-800f-b0f5-2ba665c0228c) |
 | 6  | **Ansor: Generating High-Performance Tensor Programs for Deep Learning** | [Ansor](https://arxiv.org/abs/2006.06762) | [Link](https://chatgpt.com/share/693de2b5-49c4-800f-9800-8cbe41a96627) |
 | 7 | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | [PyTorch 2](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Link](https://chatgpt.com/share/693de5f2-358c-800f-afde-d70aa911288f) |
-| 8 | **TorchBench: Benchmarking PyTorch with High API Surface Coverage** | [TorchBench](https://arxiv.org/abs/2304.14226) | |
+| 8 | **TorchBench: Benchmarking PyTorch with High API Surface Coverage** | [TorchBench](https://arxiv.org/abs/2304.14226) | [Link](https://chatgpt.com/share/693de901-9b20-800f-a43a-042c5530e476) |
 | 9 | **TorchTitan: One-stop PyTorch Native Solution for Production-Ready LLM Pretraining** | [TorchTitan](https://arxiv.org/abs/2410.06511) | |
 | 10 | **ECLIP: Energy-efficient and Practical Co-Location of ML Inference Pipelines on GPUs** | [ECLIP](https://arxiv.org/abs/2506.12598) | |
 | 11 | **Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations** | [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973) | |
