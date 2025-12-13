@@ -4,7 +4,7 @@
 
 | #  | Paper Title | Paper Link | Vibelog |
 |:--:|-------------|------------|:-------:|
-| 2  | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | [DSPy](https://arxiv.org/pdf/2310.03714) | |
+| 2  | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | [DSPy](https://arxiv.org/pdf/2310.03714) | [Link](https://chatgpt.com/share/693dc1c1-5b90-800f-bca5-92fdaebb3984) |
 | 4  | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | [GEPA](https://arxiv.org/abs/2507.19457) | [Link](https://github.com/Jayanaka-98/cse598-3-compilers-for-ai/blob/main/gepa.md)|
 | 6  | **MTP: A Meaning-Typed Language Abstraction for AI-Integrated Applications** | [MTP](https://arxiv.org/abs/2405.08965) | |
 | 7  | **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** | [TVM](https://arxiv.org/abs/1802.04799) | |
