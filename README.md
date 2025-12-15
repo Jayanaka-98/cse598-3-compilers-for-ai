@@ -1,5 +1,9 @@
 # CSE 598 (3) Compilers for AI
 
+## Project Report (with @savini @zichen)
+
+[PromptCompEval: Evaluation Methodology for Comparing Prompt Compilation Frameworks](https://github.com/Jayanaka-98/cse598-3-compilers-for-ai/blob/main/598_PromptCompEval.pdf)
+
 ## Vibe_logs for papers.
 
 | #  | Paper Title | Paper Link | Vibelog |
